@@ -1,5 +1,5 @@
 # Hi, I'm Ameni Frada 👋  
-# 🎓 Advanced Electronics & Nanotechnology Engineering Student | 👩‍💻 Embedded Software & AI Engineer  
+# 🎓 Advanced Electronics & Nanotechnology Engineering Student
 
 🔭 Developing **AI-driven embedded software** solutions for smart systems  
 🚀 Skilled in **C**, **C++**, **Python**, **IoT protocols**, and **real-time AI integration**  
