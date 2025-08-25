@@ -55,6 +55,10 @@ Developed an AI-based strategy for anomaly detection, energy prediction, and EMS
 Real-time embedded AI on Raspberry Pi for tomato leaf disease detection using MobileNetV2 and TensorFlow.  
 🛠 Tools: Python, TensorFlow, OpenCV, Embedded Linux
 
+🔌 **CAN Communication with STM32F4**  
+  Implemented CAN bus on STM32 for data exchange and LED control.
+🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), CAN Transceiver, LEDs & Push Buttons  
+
 🏠 **ESP SmartHub**  
 IoT-based dashboard for smart home monitoring and appliance control using ESP8266.  
 🛠 Tools: Arduino IDE, HTML, MQTT, Real-time sensors
@@ -63,9 +67,6 @@ IoT-based dashboard for smart home monitoring and appliance control using ESP826
 Designed and programmed an autonomous robot using Arduino and PID control with QTR sensors.  
 🛠 Tools: Arduino, C, Robotics Sensors
 
-🔌 **CAN Communication with STM32F4**  
-  Implemented CAN bus on STM32 for data exchange and LED control.
-🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), CAN Transceiver, LEDs & Push Buttons  
 
 ---
 
