@@ -63,9 +63,9 @@ IoT-based dashboard for smart home monitoring and appliance control using ESP826
 Designed and programmed an autonomous robot using Arduino and PID control with QTR sensors.  
 🛠 Tools: Arduino, C, Robotics Sensors
 
-🔌 **CAN Communication with STM32F4** 
-Implemented CAN bus on STM32 using HAL (STM32CubeIDE) for data exchange and LED control.
-🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), CAN Transceiver (e.g., MCP2551 / TJA1050), LEDs & Push Buttons  
+🔌 **CAN Communication with STM32F4**  
+  Implemented CAN bus on STM32 for data exchange and LED control.
+🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), CAN Transceiver, LEDs & Push Buttons  
 
 ---
 
