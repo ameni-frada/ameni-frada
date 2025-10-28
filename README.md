@@ -55,9 +55,9 @@ Developed an AI-based strategy for anomaly detection, energy prediction, and EMS
 Real-time embedded AI on Raspberry Pi for tomato leaf disease detection using MobileNetV2 and TensorFlow.  
 🛠 Tools: Python, TensorFlow, OpenCV, Embedded Linux
 
-🔌 **CAN Communication with STM32F4**  
-  Implemented CAN bus on STM32 for data exchange and LED control.
-🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), CAN Transceiver, LEDs & Push Buttons  
+🔌 **STM32F4 – GPIO, ADC/DAC & UART/I²C/SPI**  
+  Embedded development on STM32F4 microcontroller for GPIO control (digital input/output), reading and generating analog signals via ADC/DAC, and communication with peripherals using UART, I²C, and SPI.
+🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), , LEDs & Push Buttons  
 
 🏠 **ESP SmartHub**  
 IoT-based dashboard for smart home monitoring and appliance control using ESP8266.  
