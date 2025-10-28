@@ -56,7 +56,7 @@ Real-time embedded AI on Raspberry Pi for tomato leaf disease detection using Mo
 🛠 Tools: Python, TensorFlow, OpenCV, Embedded Linux
 
 🔌 **STM32F4 – GPIO, ADC/DAC & UART/I²C/SPI**  
-  Embedded development on STM32F4 microcontroller for GPIO control (digital input/output), reading and generating analog signals via ADC/DAC, and communication with peripherals using UART, I²C, and SPI.
+Embedded development on STM32F4 microcontroller for GPIO control (digital input/output), reading and generating analog signals via ADC/DAC, and communication with peripherals using UART, I²C, and SPI.
 🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), , LEDs & Push Buttons  
 
 🏠 **ESP SmartHub**  
