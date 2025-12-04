@@ -53,14 +53,17 @@ Developed an AI-based strategy for anomaly detection, energy prediction, and EMS
 
 🌿 **Plant Disease Detection System**  
 Real-time embedded AI on Raspberry Pi for tomato leaf disease detection using MobileNetV2 and TensorFlow.  
+
 🛠 Tools: Python, TensorFlow, OpenCV, Embedded Linux
 
 🔌 **STM32F4 – GPIO, ADC/DAC & UART/I²C/SPI**  
 Embedded development on STM32F4 microcontroller for GPIO control (digital input/output), reading and generating analog signals via ADC/DAC, and communication with peripherals using UART, I²C, and SPI.
+
 🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), , LEDs & Push Buttons  
 
 💡 **IoT Microclimate Monitoring System**  
 This project implements a smart microclimate monitoring system in two versions:
+
 1️⃣ **STM32 + Java**: Uses an STM32 microcontroller and a Java application running on PC to collect environmental data and send it to a local cloud interface, visualized through a Node-RED dashboard in real time.
 
 2️⃣ **Raspberry Pi 5 + Python**: Uses a Raspberry Pi 5 to collect the same environmental data with Python, sending it via HTTP to a cloud interface and visualized through Node-RED.
@@ -69,6 +72,7 @@ This project implements a smart microclimate monitoring system in two versions:
 
 🤖 **PID Line Follower Robot**  
 Designed and programmed an autonomous robot using Arduino and PID control with QTR sensors.  
+
 🛠 Tools: Arduino, C, Robotics Sensors
 
 
