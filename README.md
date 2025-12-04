@@ -61,11 +61,8 @@ Embedded development on STM32F4 microcontroller for GPIO control (digital input/
 
 💡 **IoT Microclimate Monitoring System**  
 This project implements a smart microclimate monitoring system in two versions:
-
 1️⃣ **STM32 + Java**: Uses an STM32 microcontroller and a Java application running on PC to collect environmental data and send it to a local cloud interface, visualized through a Node-RED dashboard in real time.
-
 2️⃣ **Raspberry Pi 5 + Python**: Uses a Raspberry Pi 5 to collect the same environmental data with Python, sending it via HTTP to a cloud interface and visualized through Node-RED.
-
 🛠 Tools: STM32F4, Raspberry Pi 5, Java, Python, Node-RED, Real-time sensors
 
 🤖 **PID Line Follower Robot**  
