@@ -59,7 +59,7 @@ Real-time embedded AI on Raspberry Pi for tomato leaf disease detection using Mo
 Embedded development on STM32F4 microcontroller for GPIO control (digital input/output), reading and generating analog signals via ADC/DAC, and communication with peripherals using UART, I²C, and SPI.
 🛠 Tools: STM32F4 Discovery Board, STM32CubeIDE (HAL drivers), , LEDs & Push Buttons  
 
-🏠 **IoT Microclimate Monitoring System**  
+💡 **IoT Microclimate Monitoring System**  
 This project implements a smart microclimate monitoring system using an STM32 microcontroller, a Java application running on PC, and a Node-RED dashboard for visualization.
 The system collects environmental data and sends it to a local cloud interface in real time.
 🛠 Tools: STM32F4, Java, Node-RED, Real-time sensors
