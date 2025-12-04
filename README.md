@@ -49,6 +49,7 @@
 
 ⚡ **Predictive Energy Optimization for Data Centers** *(Internship @ Sotetel)*  
 Developed an AI-based strategy for anomaly detection, energy prediction, and EMS control using STM32 and Streamlit.  
+
 🛠 Tools: STM32F4, Python, Random Forest, Isolation Forest, Streamlit, MQTT, UART
 
 🌿 **Plant Disease Detection System**  
