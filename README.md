@@ -1,5 +1,5 @@
 # Hi, I'm Ameni Frada 👋  
-# 🎓 Advanced Electronics & Nanotechnology Engineer
+# 🎓 Advanced Electronics Nanotechnology Engineer
 
 🔭 Developing **AI-driven embedded software** solutions for smart systems  
 🚀 Skilled in **C**, **C++**, **Python**, **IoT protocols**, and **real-time AI integration**  
@@ -45,7 +45,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Experience 
+
+☀️ **Intelligent Embedded Battery Management System for an Autonomous Solar Drone** *(Graduation Project @ Capgemini Engineering)*  
+Developed a simulation-based intelligent BMS integrating STM32 embedded systems, AI-based energy prediction, and anomaly detection to monitor battery health and support flight safety decisions for an autonomous solar-powered agricultural drone.
+
+🛠 **Tools:** STM32F446RE, C, Python, FreeRTOS, Flask, Machine Learning, XGBoost, Neural Networks, Isolation Forest, ArduPilot SITL, MAVLink, UART
 
 ⚡ **Predictive Energy Optimization for Data Centers** *(Internship @ Sotetel)*  
 Developed an AI-based strategy for anomaly detection, energy prediction, and EMS control using STM32 and Streamlit.  
